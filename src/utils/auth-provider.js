@@ -1,3 +1,5 @@
+import { client } from './api-client'
+
 const localStorageKey = '__auth_provider_token__'
 
 async function getToken() {

@@ -1,5 +1,5 @@
 function App() {
-    return <>Hello, Ajwa</>
+    return <>Hello, EDO</>
 }
 
 export default App
